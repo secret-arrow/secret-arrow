@@ -1,7 +1,7 @@
 
 <div align="center">
 <img src="https://w4ulz-kiaaa-aaaap-qbsma-cai.icp0.io/logo2.svg" align="center" style="width: 80%" />
-<img src="https://drive.google.com/file/d/1Nuv8qIOp8-OXQUiAkL-oJ7-xJUtoyUpZ/view?usp=drive_link" align="center" style="width: 80%" />
+<img src="https://drive.google.com/uc?id=1Nuv8qIOp8-OXQUiAkL-oJ7-xJUtoyUpZ" align="center" style="width: 80%" />
 </div>  
 
 ### 👋 Hi , I am Secret-Arrow 
