@@ -1,16 +1,39 @@
-## Hi there 👋
 
-<!--
-**secret-arrow/secret-arrow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+<img src="https://w4ulz-kiaaa-aaaap-qbsma-cai.icp0.io/logo2.svg" align="center" style="width: 80%" />
+</div>  
 
-Here are some ideas to get you started:
+### 👋 Hi , I am Secret-Arrow  
+- Rust Developer ( InternetComputer | Solana | Bitcoin| Stellar | Cosmos | Sui | Astar )
+- Python Developer | AI Engineer
+- Online Casino Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👍 Summary
+-------------------------------------
+- With 7 years of experience in software development and engineering, I have a demonstrated history of delivering top-notch solutions that align with business needs, all while following best practices and industry standards.
+- I am currently seeking a challenging position within a dynamic organization where I can apply my skills and expertise to propel business growth and success.
+
+🏆Portfolio
+-------------------------------------
+ - Rust & BTC dev at Oranjinals
+   - Product: https://www.betbtc.win/
+   - Product: https://x.com/oranjinals
+   - Stack: Rust + ICP + ChainFusion + Runes + Vuejs
+- Rust & ICP Dev at Bridge23
+   - Product: https://beta.bridge23.app/
+   - Stack: Rust + ICP + ChainFusion + Solidity + Nextjs
+- Rust & ICP Dev at OutRank
+   - Product: https://www.outrank.io/
+   - Stack: TypeScript + Nextjs + Rust + Dfx
+- Rust & Near Dev at NearNauts
+   - Product: https://twitter.com/NEARNauts
+   - Stack: Solidity + TypeScript + Nextjs + Web3js + Rust
+- Casino & Full-Stack Dev at Canada777
+   - Product: https://canada777.com
+   - Stack: Nextjs/Vuejs + Nodejs + Mongodb
+- Python & AI Dev at Iconvo.ai
+   - Product: https://iconvo.ai
+   - Stack: Python + Flask + OpenAI + SQLite
+- Python Dev at Ontic
+   - Product: https://ontic.co
+   - Stack: Python + NumPy + Data Scraping + PostgreSQL
