@@ -15,26 +15,26 @@
 
 🏆Portfolio
 -------------------------------------
- - Python & AI Dev at Iconvo.ai
-   - Product: https://iconvo.ai
-   - Stack: Python + Flask + OpenAI + SQLite
- - Python Dev at Ontic
+- Python & AI Dev at Iconvo.ai
+  - Product: https://iconvo.ai
+  - Stack: Python + Flask + OpenAI + SQLite
+- Python Dev at Ontic
    - Product: https://ontic.co
    - Stack: Python + NumPy + Data Scraping + PostgreSQL
- - Rust & BTC dev at Oranjinals
+- Rust & BTC dev at Oranjinals
    - Product: https://www.betbtc.win/
    - Product: https://x.com/oranjinals
    - Stack: Rust + ICP + ChainFusion + Runes + Vuejs
- - Rust & ICP Dev at Bridge23
+- Rust & ICP Dev at Bridge23
    - Product: https://beta.bridge23.app/
    - Stack: Rust + ICP + ChainFusion + Solidity + Nextjs
- - Rust & ICP Dev at OutRank
+- Rust & ICP Dev at OutRank
    - Product: https://www.outrank.io/
    - Stack: TypeScript + Nextjs + Rust + Dfx
- - Rust & Near Dev at NearNauts
+- Rust & Near Dev at NearNauts
    - Product: https://twitter.com/NEARNauts
    - Stack: Solidity + TypeScript + Nextjs + Web3js + Rust
- - Full-Stack Dev at Canada777
+- Full-Stack Dev at Canada777
    - Product: https://canada777.com
    - Stack: Nextjs/Vuejs + Nodejs + Mongodb
 
