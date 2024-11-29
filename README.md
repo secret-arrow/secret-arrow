@@ -4,7 +4,7 @@
 </div>  
 
 ### 👋 Hi , I am Secret-Arrow 
-- Python Developer | AI Engineer
+- Python Developer | AI Engineer 
 - Rust Developer ( InternetComputer | Solana | Bitcoin| Stellar | Cosmos | Sui | Astar )
 - Senior Web Developer ( Angular | Vue | React | Next | Laravel | WordPress | Node | MySQL | NoSQL )
 
