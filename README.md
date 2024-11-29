@@ -2,7 +2,6 @@
 <div align="center">
 <img src="https://w4ulz-kiaaa-aaaap-qbsma-cai.icp0.io/logo2.svg" align="center" style="width: 80%" />
 </div>  
-![Uploading 123qwe.png…]()
 
 ### 👋 Hi , I am Secret-Arrow 
 - Python Developer | AI Engineer
