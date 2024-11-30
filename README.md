@@ -4,10 +4,6 @@
 </div>  
 <h2 align="center"> 💫  About Me  💫 </h2>
 
-
-
-👍 Summary
----------------------------------------
 - Python Developer | AI Engineer 
 - Rust Developer ( InternetComputer | Solana | Bitcoin| Stellar | Cosmos | Sui | Astar )
 - Senior Web Developer ( Angular | Vue | React | Next | Laravel | WordPress | Node | MySQL | NoSQL )
