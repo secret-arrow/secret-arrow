@@ -2,12 +2,13 @@
 <div align="center">
 <img src="https://w4ulz-kiaaa-aaaap-qbsma-cai.icp0.io/logo2.svg" align="center" style="width: 80%" />
 </div>  
-# <h2 align="center"> 💫  About Me  💫 </h3>
-### 👋 Hi , I am Secret-Arrow 
+# <h2 align="center"> 💫  About Me  💫 </h2>
+<span>
+👋 Hi , I am Secret-Arrow 
 - Python Developer | AI Engineer 
 - Rust Developer ( InternetComputer | Solana | Bitcoin| Stellar | Cosmos | Sui | Astar )
 - Senior Web Developer ( Angular | Vue | React | Next | Laravel | WordPress | Node | MySQL | NoSQL )
-
+</span>
 👍 Summary
 ---------------------------------------
 - With 7 years of experience in software development and engineering, I have a demonstrated history of delivering top-notch solutions that align with business needs, all while following best practices and industry standards.
