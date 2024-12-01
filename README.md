@@ -1,5 +1,5 @@
  <div align="center">
-<img src="https://w4ulz-kiaaa-aaaap-qbsma-cai.icp0.io/logo2.svg" align="center" style="width: 80%" />
+<img src="https://drive.google.com/uc?export=view&id=1b0ruysNy_ZAMO7dtbiqjACsnGLrpYKRR" align="center" style="width: 80%" />
 
 </div> 
 <h2 align="center"> 💫  About Me  💫 </h2>
