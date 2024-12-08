@@ -4,9 +4,10 @@
 </div> 
 <h2 align="center"> 💫  About Me  💫 </h2>
 
-- Python Developer | AI Engineer 
-- Rust Developer ( InternetComputer | Solana | Bitcoin| Stellar | Cosmos | Sui | Astar )
+- Python Developer | AI Engineer
 - Senior Web Developer ( Angular | Vue | React | Next | Laravel | PHP | WordPress | Node | MySQL | NoSQL )
+- Rust Developer ( InternetComputer | Solana | Bitcoin| Stellar | Cosmos | Sui | Astar )
+
 
   With 7 years of experience in software development and engineering, I have a demonstrated history of delivering top-notch solutions that align with business needs, all while following best practices and industry standards.
   I am currently seeking a challenging position within a dynamic organization where I can apply my skills and expertise to propel business growth and success.
@@ -19,6 +20,9 @@
 - Python Dev at Ontic
    - Product: https://ontic.co
    - Stack: Python + NumPy + Data Scraping + PostgreSQL
+- **Web Frontend & Backend Dev** at Canada777
+   - Product: https://canada777.com
+   - Stack: Reactjs/Vuejs + Nodejs + Mongodb
 - Rust & BTC dev at Oranjinals
    - Product: https://www.betbtc.win/
    - Product: https://x.com/oranjinals
@@ -32,7 +36,5 @@
 - Rust & Near Dev at NearNauts
    - Product: https://twitter.com/NEARNauts
    - Stack: Solidity + TypeScript + Nextjs + Web3js + Rust
-- Full-Stack Dev at Canada777
-   - Product: https://canada777.com
-   - Stack: Nextjs/Vuejs + Nodejs + Mongodb
+
 
