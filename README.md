@@ -23,10 +23,10 @@
 - **Web Frontend & Backend Dev** at Canada777
    - Product: https://canada777.com
    - Stack: Reactjs/Vuejs + Nodejs + Mongodb
-- **Rust & BTC dev** at Oranjinals
+- **Frontend & Rust & BTC dev** at Oranjinals
    - Product: https://www.betbtc.win/
    - Product: https://x.com/oranjinals
-   - Stack: Rust + ICP + ChainFusion + Runes + Vuejs + Reactjs
+   - Stack: Reactjs + Vuejs + Rust + ICP + ChainFusion + Runes
 - **Frontend & Rust & ICP Dev** at OutRank
    - Product: https://www.outrank.io/
    - Stack: TypeScript + Nextjs + Rust + Dfx
